@@ -3,6 +3,14 @@
     <channel>
         <title>Typefield</title>
         <item>
+            <title>0.2.4</title>
+            <pubDate>Mon, 31 Aug 2026 09:39:04 -0400</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/securityjeff/typefield-releases/releases/download/v0.2.4/Typefield-0.2.4.zip" length="8206879" type="application/octet-stream" sparkle:edSignature="htlX8s3tQSpbOU7vIQE57FNKxdvgtpFMazxsWLhBOLK5xaHbbKaqe/23C7w4YwqqjJtibiwV1gL2xAncoFODAg=="/>
+        </item>
+        <item>
             <title>0.2.3</title>
             <pubDate>Tue, 25 Aug 2026 13:59:03 -0400</pubDate>
             <sparkle:version>5</sparkle:version>
