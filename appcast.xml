@@ -3,6 +3,14 @@
     <channel>
         <title>Typefield</title>
         <item>
+            <title>0.2.11</title>
+            <pubDate>Sat, 05 Sep 2026 09:03:07 -0400</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/securityjeff/typefield-releases/releases/download/v0.2.11/Typefield-0.2.11.zip" length="8472918" type="application/octet-stream" sparkle:edSignature="8IYYvBldkAtL5NO0fM76MtgcmdL2q0mn5pTquoV3qEQ5YQuiKDBbLoyRLGhinlJE8giQloixjeap1wWxqVu1BA=="/>
+        </item>
+        <item>
             <title>0.2.10</title>
             <pubDate>Thu, 03 Sep 2026 10:29:10 -0400</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/securityjeff/typefield-releases/releases/download/v0.2.9/Typefield-0.2.9.zip" length="8472580" type="application/octet-stream" sparkle:edSignature="GDub5yqFY1pH8hB9zprvn5rdb3FJedG4/naIGav1Ob6z7FVjPnsyXHqfQMK4FVOWhBUaX8DuDueNmB+k0daLAQ=="/>
-        </item>
-        <item>
-            <title>0.2.8</title>
-            <pubDate>Tue, 01 Sep 2026 22:45:31 -0400</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/securityjeff/typefield-releases/releases/download/v0.2.8/Typefield-0.2.8.zip" length="8331801" type="application/octet-stream" sparkle:edSignature="6+BYicNQhdc4owJHKCwKQ5hnyvJNT8L0msQfbryjis4MrRoxM0Ec1AsOBvTxuf80kTcfN9RdRYmCygmvRFW1Cw=="/>
         </item>
     </channel>
 </rss>
