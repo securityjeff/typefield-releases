@@ -6,9 +6,9 @@
             <title>0.2.11</title>
             <pubDate>Sat, 05 Sep 2026 09:03:07 -0400</pubDate>
             <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.2.11</sparkle:shortVersionString>
+            <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/securityjeff/typefield-releases/releases/download/v0.2.11/Typefield-0.2.11.zip" length="8472918" type="application/octet-stream" sparkle:edSignature="8IYYvBldkAtL5NO0fM76MtgcmdL2q0mn5pTquoV3qEQ5YQuiKDBbLoyRLGhinlJE8giQloixjeap1wWxqVu1BA=="/>
+            <enclosure url="https://github.com/securityjeff/typefield-releases/releases/download/v0.2.12/Typefield-0.2.12.zip" length="8751071" type="application/octet-stream" sparkle:edSignature="7rFtFtcZckheH3mEIp12os4AFqSB2BR1kz9gCiUJepKjHWFqfzKdltAfQEvtrq2rFIvwWv2mv6nu8JTOpcNOCw=="/>
         </item>
         <item>
             <title>0.2.10</title>
